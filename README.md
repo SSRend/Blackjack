@@ -1,6 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+body {
+    background-color: #023300; /* 배경색 설정 */
+    color: white; /* 텍스트 색상 */
+}
+</style>
+</head>
+<body>
 # 블랙잭 게임 프로젝트
 
+## 영상
+
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/pfahNW5eyLI/0.jpg)](https://www.youtube.com/watch?v=pfahNW5eyLI)
+
+클릭 시, 유튜브로 이동합니다.
 
 ## 소개
 이 프로젝트는 Python과 Pygame 라이브러리를 사용하여 구현한 블랙잭 게임입니다. 사용자는 프로필을 생성하고, 게임에 베팅하며, 딜러와 경쟁하여 승리 여부를 확인할 수 있습니다. 
