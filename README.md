@@ -40,3 +40,12 @@ Pygame 활용: UI 구성, 이벤트 처리, 화면 갱신의 기본 구조를 �
 더 세련된 UI와 애니메이션 추가.
 네트워크 기능을 통해 멀티플레이 지원.
 AI 딜러를 개선하여 더 도전적인 게임 제공.
+
+## 라이선스
+이 프로젝트는 MIT License를 따릅니다.
+
+- **게임 OST**: [출처 링크 또는 이름](http://example.com) (라이선스: Creative Commons Attribution)
+- **카드 효과음**: [카드]([http://example.com](https://cdn.pixabay.com/download/audio/2022/03/10/audio_e2a2453389.mp3?filename=card-sounds-35956.mp3)) (라이선스: 무료 사용, 상업적 이용 가능)
+- **클 효과음**: [카드]([http://example.com](https://assets.mixkit.co/active_storage/sfx/1119/1119.wav)) (라이선스: 무료 사용, 상업적 이용 가능)
+
+
