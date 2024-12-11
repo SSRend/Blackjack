@@ -1,5 +1,10 @@
 # 블랙잭 게임 프로젝트
 
+<video width="1920" height="1080" controls autoplay loop>
+  <source src="demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ## 소개
 이 프로젝트는 Python과 Pygame 라이브러리를 사용하여 구현한 블랙잭 게임입니다. 사용자는 프로필을 생성하고, 게임에 베팅하며, 딜러와 경쟁하여 승리 여부를 확인할 수 있습니다. 
 
