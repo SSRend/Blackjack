@@ -1,6 +1,6 @@
 # 블랙잭 게임 프로젝트
 
-[![Video Label](http://img.youtube.com/vi/pfahNW5eyLI/0.jpg)](https://youtu.be/pfahNW5eyLI)
+https://www.youtube.com/watch?v=pfahNW5eyLI
 
 ## 소개
 이 프로젝트는 Python과 Pygame 라이브러리를 사용하여 구현한 블랙잭 게임입니다. 사용자는 프로필을 생성하고, 게임에 베팅하며, 딜러와 경쟁하여 승리 여부를 확인할 수 있습니다. 
