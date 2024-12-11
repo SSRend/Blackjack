@@ -53,7 +53,7 @@ AI 딜러를 개선하여 더 도전적인 게임 제공.
 ## 라이선스
 이 프로젝트는 MIT License를 따릅니다.
 
-- **게임 OST**: [출처 링크](https://www.youtube.com/watch?v=DCTggKrpMWs)
+- **배경음악**: [출처 링크](https://www.youtube.com/watch?v=DCTggKrpMWs)
 - **카드 효과음**: [출처 링크](https://cdn.pixabay.com/download/audio/2022/03/10/audio_e2a2453389.mp3?filename=card-sounds-35956.mp3)
 - **클릭 효과음**: [출처 링크](https://assets.mixkit.co/active_storage/sfx/1119/1119.wav)
 
