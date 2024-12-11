@@ -27,7 +27,7 @@
    pip install pygame
 4. 다음 명령어로 게임을 실행하세요.
    python main.py
-4a. 또는, vscode로 해당 폴더를 열어 main.py를 실행하면 됩니다.
+5. 또는, vscode로 해당 폴더를 열어 main.py를 실행하면 됩니다.
 
 ## 학습한 점
 Pygame 활용: UI 구성, 이벤트 처리, 화면 갱신의 기본 구조를 이해했습니다.
