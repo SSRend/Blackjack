@@ -1,14 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-body {
-    background-color: #023300; /* 배경색 설정 */
-    color: white; /* 텍스트 색상 */
-}
-</style>
-</head>
-<body>
 # 블랙잭 게임 프로젝트
 
 ## 영상
